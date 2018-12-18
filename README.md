@@ -12,7 +12,7 @@ Alternatively, download Vault for your operating system from [official website](
 
 After you install Vault, launch it in a console window using below command
 ```bash
-$ vault server --dev --dev-root-token-id="00000000-0000-0000-0000-000000000000"
+$ vault server --dev --dev-root-token-id="12345"
 ```
 ```bash
 The command above starts Vault in development mode using in-memory storage without transport encryption. 
